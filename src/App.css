@@ -1,0 +1,47 @@
+.App{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  margin-left:20px;
+  width:500px;
+  height:500px;
+  border: black;
+
+  border-style: solid;
+}
+
+.red{
+  
+  border: 10px solid red;
+}
+
+.blue{
+  background-color:blue;
+}
+
+.black{
+  
+  border: 10px solid black;
+}
+.green{
+
+  border: 10px solid green;
+}
+.choice-card {
+  margin: 10px;
+  width: 300px;
+  height: 300px;
+  background-color: orange;
+}
+
+
+.img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button{
+  margin-left:20px;
+}
